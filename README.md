@@ -89,7 +89,7 @@ This work was presented at the **Alan Turing Institute PhD Presentation Day** (M
   author = {[Oluwaseun Franklin Olabode]},
   title = {Lagos Groundwater Recharge Analysis: Identifying Optimal Rainfall Conditions},
   year = {2026},
-  url = {https://github.com/[your-username]/lagos-recharge-analysis}
+  url = {https://github.com/[seunoutlier]/lagos-recharge-analysis}
 }
 ```
 
