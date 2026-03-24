@@ -86,7 +86,7 @@ This work was presented at the **Alan Turing Institute PhD Presentation Day** (M
 ## Citation
 ```bibtex
 @software{lagos_recharge_analysis,
-  author = {[Your Name]},
+  author = {[Oluwaseun Franklin Olabode]},
   title = {Lagos Groundwater Recharge Analysis: Identifying Optimal Rainfall Conditions},
   year = {2026},
   url = {https://github.com/[your-username]/lagos-recharge-analysis}
@@ -99,6 +99,6 @@ MIT License
 
 ## Contact
 
-- **Author:** [Your Name]
+- **Author:** [Oluwaseun Franklin Olabode]
 - **Email:** [your.email@institution.ac.uk]
 - **Institution:** [Your Institution]
