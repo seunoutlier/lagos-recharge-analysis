@@ -100,5 +100,16 @@ MIT License
 ## Contact
 
 - **Author:** [Oluwaseun Franklin Olabode]
+Institution: University of Aberdeen
+Email: oluwaseun.folabode@gmail.com
+
+Identifying Optimal Rainfall Conditions for Groundwater Recharge
+Using Machine Learning: Evidence from Lagos Megacity
+
+
+
+Presented at: Alan Turing Institute PhD Presentation Day (March 2026)
+...
+"""
 - **Email:** [your.email@institution.ac.uk]
 - **Institution:** [Your Institution]
